@@ -21,3 +21,10 @@ Request:
 {
   "url": "https://example.com/very/long/link"
 }
+{
+  "original_url": "https://example.com/very/long/link",
+  "short_code": "aB12xY",
+  "short_url": "http://127.0.0.1:5000/aB12xY"
+}
+pip install -r requirements.txt
+python app.py
